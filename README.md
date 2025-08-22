@@ -1,30 +1,28 @@
-## Actividad 1
-### Datos de los alumnos:"
+## Activity 1
+### Student Information:
 
+- **Name:** Alexis Adrian Gonzalez Martinez  
+- **Name:** Sebastian Cruz Garcia  
+- **ID:** 3053999  
+- **ID:** 2815299  
 
-- **Nombre:** Alexis Adrian Gonzalez Martinez
-- **Nombre:** Sebastian Cruz Garcia
-- **Matricula:** 3053999
-- **Matricula:** 2815299
+### **Course Information**  
+**Course:** Web Application Design  
 
-### **Datos de la materia**
- **Materia:** Diseño de aplicaciones web
+# What is Markdown for?
 
+Markdown is a lightweight markup language used to **format text** in a simple and quick way.  
+Its main advantage is that it doesn’t require complex programs; with just a few symbols, you can structure clear and well-presented documents.  
 
+## Main Uses
+- Create project documentation.  
+- Write README files on platforms like GitHub.  
+- Take organized notes in apps like Obsidian or Notion.  
+- Publish formatted articles or blog posts.  
+- Style messages in forums and chats that support Markdown.  
 
-# ¿Para qué sirve Markdown?
+## Quick Example
+- **Bold:** `**text**` → **text**  
+- *Italic:* `*text*` → *text*  
 
-Markdown es un lenguaje de marcado ligero que se utiliza para **dar formato al texto** de manera sencilla y rápida.  
-Su principal ventaja es que no requiere programas complejos, ya que con unos pocos símbolos puedes estructurar documentos claros y bien presentados.
-
-## Usos principales
-- Crear documentación de proyectos.  
-- Escribir archivos README en plataformas como GitHub.  
-- Tomar notas organizadas en aplicaciones como Obsidian o Notion.  
-- Publicar artículos o blogs con formato.  
-- Dar estilo a mensajes en foros y chats que soportan Markdown.  
-
-## Ejemplo rápido
-- **Negrita:** `**texto**` → **texto**  
-- *Cursiva:* `*texto*` → *texto*  
 
