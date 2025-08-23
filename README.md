@@ -1,6 +1,6 @@
 ## Activity 1
-### Student Information:                            
-                                                                                                                  ![Image](https://github.com/user-attachments/assets/be4921a3-9e39-42f0-9223-a32faf03e8f0)
+### Student Information:
+
 
 - **Name:** Alexis Adrian Gonzalez Martinez  
 - **Name:** Sebastian Cruz Garcia  
@@ -26,4 +26,4 @@ Its main advantage is that it doesn’t require complex programs; with just a fe
 - **Bold:** `**text**` → **text**  
 - *Italic:* `*text*` → *text*  
 
-
+![Image](https://github.com/user-attachments/assets/be4921a3-9e39-42f0-9223-a32faf03e8f0)
