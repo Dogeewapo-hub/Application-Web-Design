@@ -1,6 +1,7 @@
 ## Activity 1
-### Student Information:
-![Image](https://github.com/user-attachments/assets/be4921a3-9e39-42f0-9223-a32faf03e8f0)
+### Student Information:                            
+                                                                                                                  ![Image](https://github.com/user-attachments/assets/be4921a3-9e39-42f0-9223-a32faf03e8f0)
+
 - **Name:** Alexis Adrian Gonzalez Martinez  
 - **Name:** Sebastian Cruz Garcia  
 - **ID:** 3053999  
